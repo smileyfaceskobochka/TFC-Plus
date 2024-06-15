@@ -23,5 +23,4 @@
 
 ![изображение](https://github.com/smileyfaceskobochka/TFC/assets/101476002/99fef3a1-d019-4a85-8bd4-09954944b035)
 
-
-Всё!
+8. Запуск
