@@ -15,7 +15,7 @@
 
 6. распаковать и настроить
 
-7. Скачать Сборку - https://modrinth.com/modpack/terrafirmacraft+
+7. Скачать Сборку - https://modrinth.com/modpack/terrafirmacraft+/versions
 
 ![изображение](https://github.com/smileyfaceskobochka/TFC/assets/101476002/d6dead01-fc35-4a62-86a6-3964319bec62)
 
