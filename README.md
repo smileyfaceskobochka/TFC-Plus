@@ -11,7 +11,7 @@
 
 4. Скачать лаунчер UltimMC - https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip
 
-5. Скачать Java - https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe
+5. Скачать Java - https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
 
 6. распаковать и настроить
 
